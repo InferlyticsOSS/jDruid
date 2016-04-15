@@ -19,7 +19,7 @@ This will generate `jdruid-0.1.0.jar` in the `target` folder which can be used i
 
 ###Maven
 
-When the project is available on Maven, you can include it in your project using the following dependency:
+**jDruid** is available on Bintray and Maven Central:
 
     <dependency>
 	    <groupId>com.inferlytics</groupId>
