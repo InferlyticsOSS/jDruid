@@ -1,6 +1,12 @@
 # jDruid
 Simple Java Druid client
 
+##Build Status
+
+**jDruid** is configured on Travis CI. The current status of the master branch is given below:
+
+![](https://travis-ci.org/InferlyticsOSS/jDruid.svg?branch=master)
+
 ##Setting it up
 
 ###From scratch
