@@ -22,16 +22,16 @@ import java.util.Map;
  */
 public class DruidClient {
     private interface Druid {
-        @POST
+        @POST(".")
         Call<List<Result>> timeseries(@Body Query query);
 
-        @POST
+        @POST(".")
         Call<List<Result>> topN(@Body Query query);
 
-        @POST
+        @POST(".")
         Call<List<Row>> groupBy(@Body Query query);
 
-        @POST
+        @POST(".")
         Call<List<Map<String, Object>>> query(@Body Query query);
     }
 
