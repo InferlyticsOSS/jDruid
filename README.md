@@ -24,7 +24,7 @@ This will generate `jdruid-0.1.0.jar` in the `target` folder which can be used i
     <dependency>
 	    <groupId>com.inferlytics</groupId>
 	    <artifactId>jdruid</artifactId>
-	    <version>0.1.0</version>
+	    <version>0.1.1</version>
 	</dependency>
 
 ##Usage
